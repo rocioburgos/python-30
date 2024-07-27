@@ -30,7 +30,7 @@ print(3//2)
 """
 
 print("My name is Rocio") 
-print("My cat name is Dada")
+print("My cat name is ")
 print("I am from Argentina 🇦🇷​🇦🇷♥​")
 print('I am enjoying 30 days of python')
 
